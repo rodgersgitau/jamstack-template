@@ -1,0 +1,24 @@
+{
+  "name": "jamstack-template",
+  "version": "1.0.0",
+  "description": "A template for jamstack websites built uisng Eleventy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodgersgitau/jamstack-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodgersgitau/jamstack-template/issues"
+  },
+  "homepage": "https://github.com/rodgersgitau/jamstack-template#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
